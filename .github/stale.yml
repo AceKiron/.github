@@ -1,0 +1,23 @@
+daysUntilStale: 15
+daysUntilClose: 30
+
+exemptLabels:
+  - pinned
+  - security
+
+staleLabel: stale
+
+markComment: >
+  Thank you for your contribution, we value it! However, this issue
+  has been marked as stale because it has not had recent activity, or
+  because it does not comply with our contribution guidelines. If it
+  is the latter, please follow the instructions from the comment above
+  to comply with our guidelines.
+  It will be closed if no further activity occurs. Thank you for your
+  contributions.
+
+closeComment: true
+
+exemptProjects: false
+exemptMilestones: false
+exemptAssignees: false
